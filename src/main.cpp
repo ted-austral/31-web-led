@@ -6,6 +6,8 @@
  *      the LED state.
  *
  *      It is a case of stateless control
+ *
+ *      Austral - IntroComp - 2022 - EAM
  */
 
 #include <Arduino.h>
